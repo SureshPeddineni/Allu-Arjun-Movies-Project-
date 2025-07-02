@@ -15,8 +15,8 @@ Movie title (button-style text).
 
 🛠️ Technologies Used
 --------------------------
-HTML5
-CSS3
+HTML5,
+CSS3,
 JavaScript (Vanilla JS)
 
 
